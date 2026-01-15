@@ -26,7 +26,7 @@ The application helps users test their knowledge through time-bound, category-wi
 ## How to Run
 1. Install Python 3.x
 2. Download the project
-3. Run the application using: python main.py
+3. Run the application using: python QuizGame.py
 
 ## Future Enhancements
 - High-score tracking
