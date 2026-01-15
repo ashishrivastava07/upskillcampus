@@ -1,0 +1,26 @@
+{
+  "Python": [
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def"
+    },
+    {
+      "question": "Which data type is immutable?",
+      "options": ["List", "Dictionary", "Set", "Tuple"],
+      "answer": "Tuple"
+    }
+  ],
+  "General Knowledge": [
+    {
+      "question": "Who is the President of India?",
+      "options": ["Narendra Modi", "Droupadi Murmu", "Ram Nath Kovind", "Amit Shah"],
+      "answer": "Droupadi Murmu"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    }
+  ]
+}
